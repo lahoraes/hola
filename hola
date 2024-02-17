@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saludo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            color: #ff69b4; /* Color rosa */
+        }
+    </style>
+</head>
+<body>
+    <h1>¡Hola!</h1>
+    <p>¡Como estás!</p>
+    <p>Esto es raro,</p>
+    <p>Pero solo se me ocurrio</p>
+</body>
+</html>
